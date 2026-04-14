@@ -14,5 +14,3 @@ BST implementation using C (menu-driven)
 In BST:
 Left subtree < Root < Right subtree
 
-## Date
-(write today's date)
