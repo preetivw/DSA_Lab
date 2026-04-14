@@ -1,5 +1,5 @@
 Binary Search Tree
-# Class 5 – Binary Search Tree
+# Binary Search Tree
 
 ## Topics Covered
 - Binary Search Tree (BST)
